@@ -215,7 +215,7 @@ UniversityManagementSystem/
 
 **Abhay Kumar**
 B.Tech (CSE), CGC Landran
-📧 [abheykumar7860@gmail.com](mailto:your-email@example.com) | 🔗 [[LinkedIn](https://www.linkedin.com/in/abheykumar07/)](https://www.linkedin.com/)
+📧 [abheykumar7860@gmail.com](mailto:your-email@example.com) | 🔗 [[LinkedIn](https://www.linkedin.com/in/abheykumar07/)]
 
 ---
 
