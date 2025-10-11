@@ -1,10 +1,10 @@
-# University Management System
+# 🏫University Management System
 
 > A Java Swing-based desktop application designed to manage university operations efficiently — including students, faculty, courses, and departments — with a MySQL database for persistent storage.
 
 ---
 
-## 🏫 Overview
+## 📝 Overview
 
 The **University Management System (UMS)** is a standalone desktop application that simplifies the administration of university data. It allows administrators and staff to perform CRUD operations (Create, Read, Update, Delete) on various entities like students, faculty, and courses through a user-friendly Swing-based graphical interface.
 
@@ -12,7 +12,7 @@ Developed using **Java (Swing)** and **MySQL**, this system ensures data consist
 
 ---
 
-## 📋 Table of Contents
+## 🗂 Table of Contents
 
 1. [Key Features](#key-features)
 2. [Tech Stack](#tech-stack)
