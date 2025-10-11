@@ -211,10 +211,13 @@ UniversityManagementSystem/
 
 ---
 
-## 👨‍💻 Author
+## 📝 License & Author
 
-**Abhay Kumar**
-B.Tech (CSE), CGC Landran
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+
+**Author:** 
+Abhay
+B.Tech CSE, CGC Landran
 📧 [abheykumar7860@gmail.com](mailto:your-email@example.com) | 🔗 [[LinkedIn](https://www.linkedin.com/in/abheykumar07/)]
 
 ---
